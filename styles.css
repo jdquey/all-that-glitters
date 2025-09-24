@@ -173,24 +173,24 @@ body {
 }
 
 .btn-primary {
-    background-color: #dc2626;
+    background-color: #16a34a;
     color: white;
 }
 
 .btn-primary:hover {
-    background-color: #b91c1c;
+    background-color: #15803d;
     transform: translateY(-1px);
 }
 
 .btn-secondary {
-    background-color: transparent;
+    background-color: #86efac;
     color: #1a1a1a;
-    border: 2px solid #e5e5e5;
+    border: 2px solid #86efac;
 }
 
 .btn-secondary:hover {
-    background-color: #f8f8f8;
-    border-color: #d0d0d0;
+    background-color: #bbf7d0;
+    border-color: #bbf7d0;
 }
 
 .hero-image {
@@ -329,13 +329,15 @@ body {
 }
 
 .product-apy {
-    background: #f8f8f8;
-    color: #1a1a1a;
-    padding: 6px 12px;
-    border-radius: 6px;
+    background: transparent;
+    color: #666;
+    padding: 0;
+    border-radius: 0;
     font-size: 13px;
     font-weight: 500;
-    border: 1px solid #e5e5e5;
+    border: none;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
 }
 
 .product-card p {
