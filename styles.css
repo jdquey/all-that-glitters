@@ -329,12 +329,13 @@ body {
 }
 
 .product-apy {
-    background: #dc2626;
-    color: white;
-    padding: 8px 16px;
-    border-radius: 20px;
-    font-size: 14px;
-    font-weight: 600;
+    background: #f8f8f8;
+    color: #1a1a1a;
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 500;
+    border: 1px solid #e5e5e5;
 }
 
 .product-card p {
